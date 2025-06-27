@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "role": "My role in the team involved managing the CSS to ensure consistent and responsive styling across the website.",
+    "organisation": "letsUpgrade",
+    "startDate": "7-November, 2024",
+    "endDate": "10-November",
+    "location": "Remote",
+    "experiences": [
+      "Worked on HTML AND CSS",
+      "Worked with the LetsUpgrade"
+  
+    ],"Certificate NO":"LUEHTMLNOV124101",
+    "imageSrc": "company/image.png"
+  },
+  {
+    "id": 2,
+    "role": "Responsible for designing and managing the front-end architecture of the website, ensuring a responsive, user-friendly interface using modern web technologies",
+    "organisation": "LetsUpgrade",
+    "startDate": "11-November, 2024",
+    "endDate": "13-November, 2024",
+    "location": "Remote",
+    "experiences": [
+      "Worked on javascript Bootcomp",
+      "Worked with the LetsUpgrade"
+
+    ],"Certificate NO":"LUEHTMLNOV124576",
+    "imageSrc": "company/image.png"
+  },
+  {
+    "id": 3,
+    "role": "My Role in the Team To Manage Database (MongoDB)",
+    "organisation": "LetsUpgrade",
+    "startDate": "12-December,2024",
+    "endDate": "17-December,2024",
+    "location": "Remote",
+    "experiences": [
+      "Worked on Node.js Bootcomp",
+      "Helped to create fully function app"
+    ],"Certificate NO":"LUEHTMLDEC124199",
+
+    "imageSrc": "company/image.png"
+  }
+]
